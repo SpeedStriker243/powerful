@@ -16,7 +16,8 @@ If you want to run the program anywhere, you're going to want to add it to your 
 Once you've done either of these things, simply type 'powerful' followed by any number.
 Here's what it does:
 <details>
-<summary>Program usage</summary>
+<summary>Click to show</summary>
+  
 ```
 > powerful 1
 I AM THE F*CKING STRONG!
