@@ -40,7 +40,7 @@ int main(int argc, char* argv[])
     {
         powerful = false;
         toopowerful = false;
-        cout << "error: program confused";
+        cout << "error: program confused" << endl;
         return -1;
     }
     if (powerful)
