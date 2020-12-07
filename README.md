@@ -32,6 +32,4 @@ I AM TOO F*CKING STRONG!!
 error: program confused
 ```
 Any value above 1 will print the 2 message, and any value below 0 will print the -1 message.
-<img src="a" alt=""></img>
-
 </details>
