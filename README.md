@@ -1,4 +1,5 @@
 # So you want to be POWERFUL?!
+> The following instructions are for Windows only.
 ## Let's get started!
 First make sure you can run `powerful` from the command line. To check, type `powerful` into CMD. If it runs, then skip to the next bit.
 If you get this:
